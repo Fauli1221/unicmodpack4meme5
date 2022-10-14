@@ -1,0 +1,16 @@
+name = "Unicopia Server"
+author = "Fauli1221"
+version = "beta24"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1eec989bedf1519b4e2cc32928d779b8cf86110fef9addf38b1eec36c42e976a"
+
+[versions]
+fabric = "0.14.9"
+minecraft = "1.19.2"
+
+[options]
+acceptable-game-versions = ["1.19.1", "1.19"]

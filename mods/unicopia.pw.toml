@@ -1,0 +1,7 @@
+name = "unicopia"
+filename = "Unicopia-1.0.0-beta.27.jar"
+
+[download]
+url = "https://github.com/Sollace/Unicopia/releases/download/1.0.0-beta.27/Unicopia-1.0.0-beta.27.jar"
+hash-format = "sha1"
+hash = "49c36cd50e12b44cce9f0800cc2d1d00b833196e"
