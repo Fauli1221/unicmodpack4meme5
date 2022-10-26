@@ -4,4 +4,5 @@
 # Exclude exported CurseForge zip files
 *.zip
 
-.github
+.github/
+.git/
