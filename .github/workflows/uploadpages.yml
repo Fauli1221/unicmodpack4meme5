@@ -30,9 +30,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: packzip build
+        uses: addnab/docker-run-action@v3
         with:
             image: avionixg/packwiz:latest
-        run: packwiz refresh --build
+            run: packwiz refresh --build
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Upload artifact
