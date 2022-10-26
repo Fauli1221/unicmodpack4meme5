@@ -216,6 +216,10 @@ file = "mods/starlight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/trinkets.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/unicopia.pw.toml"
 metafile = true
 
