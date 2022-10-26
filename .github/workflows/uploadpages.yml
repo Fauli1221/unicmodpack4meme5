@@ -33,7 +33,7 @@ jobs:
         uses: addnab/docker-run-action@v3
         with:
             image: avionixg/packwiz:latest
-            run: packwiz refresh --build
+            run: pwd && ls && packwiz refresh --build
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Upload artifact
