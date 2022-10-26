@@ -1,7 +1,7 @@
 [
     {
         "serverName": "Featured Server",
-        "serverIP": "meme5.fauli1221.de",
+        "serverIP": "meme5.fauli1221.de:25585",
         "forceResourcePack": "false",
         "forceChatPreview": "true",
         "disableButtons": "true"
