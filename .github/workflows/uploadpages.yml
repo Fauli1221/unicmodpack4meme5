@@ -32,7 +32,7 @@ jobs:
       - uses: addnab/docker-run-action@v3
         with:
             image: avionixg/packwiz:latest
-            options: -v ${{ github.workspace }}:work/unicmodpack4meme5
+            options: -v ${{ github.workspace }}:/work
             run: pwd && ls && packwiz refresh --build
       - name: Setup Pages
         uses: actions/configure-pages@v2
