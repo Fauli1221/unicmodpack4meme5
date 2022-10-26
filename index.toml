@@ -8,6 +8,10 @@ file = "mods/advancementinfo.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 metafile = true
 
@@ -16,11 +20,19 @@ file = "mods/antighost.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/big-pony.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bits-and-chisels.pw.toml"
 metafile = true
 
 [[files]]
@@ -40,7 +52,19 @@ file = "mods/cem.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/chisel-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cinderscapes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
@@ -60,11 +84,31 @@ file = "mods/debugify.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/deeperdarker.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emicompat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
 metafile = true
 
 [[files]]
@@ -100,11 +144,19 @@ file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/hd-skins.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/hold-that-chunk.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
 metafile = true
 
 [[files]]
@@ -144,6 +196,10 @@ file = "mods/lithium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/mavm.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 metafile = true
 
@@ -153,6 +209,10 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
 metafile = true
 
 [[files]]
@@ -180,11 +240,23 @@ file = "mods/no-chat-reports.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/puddles.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/redstone-multimeter.pw.toml"
 metafile = true
 
 [[files]]
@@ -193,6 +265,10 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/slotlink.pw.toml"
 metafile = true
 
 [[files]]
@@ -216,6 +292,22 @@ file = "mods/starlight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/structory.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/terrestria.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/traverse.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 metafile = true
 
@@ -225,6 +317,10 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/wilder-wild.pw.toml"
 metafile = true
 
 [[files]]

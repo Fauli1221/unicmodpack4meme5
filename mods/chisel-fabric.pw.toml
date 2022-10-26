@@ -1,0 +1,7 @@
+name = "Chisel-Fabric"
+filename = "chisel-1.4.7+1.19.2.jar"
+
+[download]
+url = "https://github.com/matthewperiut/Chisel-Fabric/releases/download/v1.4.7/chisel-1.4.7+1.19.2.jar"
+hash-format = "sha1"
+hash = "727ec624ee6a3ec7629525f12e516dc69fd53412"

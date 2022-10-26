@@ -1,0 +1,13 @@
+name = "Deeper and Darker"
+filename = "deeperdarker-1.0.0b-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fnAffV0n/versions/pYS3fztU/deeperdarker-1.0.0b-1.19.2.jar"
+hash-format = "sha1"
+hash = "c7cda25e8469f9356e588e2d94703fd45235a7e0"
+
+[update]
+[update.modrinth]
+mod-id = "fnAffV0n"
+version = "pYS3fztU"
