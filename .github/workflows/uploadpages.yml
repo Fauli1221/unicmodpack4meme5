@@ -32,8 +32,7 @@ jobs:
       - uses: addnab/docker-run-action@v3
         with:
             image: avionixg/packwiz:latest
-            options: -v ${{ github.workspace }}:/work
-            run: pwd && ls && packwiz refresh --build
+            run: ls /work && packwiz refresh --build
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Upload artifact
