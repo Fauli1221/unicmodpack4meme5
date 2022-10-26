@@ -1,6 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/featuredservers.json"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 metafile = true
 
@@ -86,6 +89,10 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/featuredserversfabric.pw.toml"
 metafile = true
 
 [[files]]
