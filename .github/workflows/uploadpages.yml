@@ -32,7 +32,7 @@ jobs:
       - name: packzip build
         with:
             image: avionixg/packwiz:latest
-            run: packwiz refresh --build
+        run: packwiz refresh --build
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Upload artifact
