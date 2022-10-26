@@ -1,0 +1,7 @@
+# Exclude exported Modrinth modpacks
+*.mrpack
+
+# Exclude exported CurseForge zip files
+*.zip
+
+.github
